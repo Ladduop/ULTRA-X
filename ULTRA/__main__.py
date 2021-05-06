@@ -90,7 +90,7 @@ else:
 
 import ULTRA._core
 import os
-print("UltraX is Up and Awake! ©️ TeamUltraX 2021")
+print("D3VIL BOT IS UP AND AWAKE")
 async def legend():
   pro = await xbot.get_me()
   legend = await bot.get_me()
