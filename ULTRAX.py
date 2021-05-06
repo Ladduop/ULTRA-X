@@ -1,7 +1,7 @@
-# COPYRIGHT (C) 2021 BY LEGENDX22
+# COPYRIGHT (C) 2021 BY D3VIL LADDU
 """
 """
-# MADE BY LEGENDX22 🔥
+# MADE BY D3VIL LADDU🔥
 # MY IDEA H YRR DONT KANG THIS PLEASE
 import asyncio
 import os
@@ -31,10 +31,10 @@ else:
   MSG = MESSAGE
 botnickname = os.environ.get("BOT_NICK_NAME")
 ALIVE_NAME = os.environ.get("ALIVE_NAME")
-BOT = str(botnickname) if botnickname else "D3VIL"
-NAME = str(ALIVE_NAME) if ALIVE_NAME else "D3VIL"
+BOT = str(botnickname) if botnickname else "D3VIL BOT"
+NAME = str(ALIVE_NAME) if ALIVE_NAME else "D3VIL BOT"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-ULTRAX = "[ULTRA X](https://t.me/ULTRAXOT)"
+ULTRAX = "[D3VIL BOT](https://t.me/DEVIL_0378)"
 VERSION = "0.0.1"
 ALIVE_USERNAME = os.environ.get("ALIVE_USERNAME", None)
 ALIVE_BOT_USERNAME = os.environ.get("ALIVE_BOT_USERNAME", None)
