@@ -28,9 +28,9 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-ULTRAX = "[D3VIL](https://t.me/ULTRAXOT)"
+ULTRAX = "[ULTRA X](https://t.me/ULTRAXOT)"
 #my bots repo 👇
-REPO = "[D3VIL BOT](https://github.com/Ladduop/D3VIL-Fights-repo)"
+REPO = "[D3VIL BOT](https://github.com/ULTRA-OP/ULTRA-X)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
